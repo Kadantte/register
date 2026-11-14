@@ -4,7 +4,7 @@
     "username": "Johannestegner",
     "email": "jitedev@gmail.com"
   },
-  "record": {
-    "CNAME": "jite.eu"
+  "records": {
+    "URL": "https://jite.eu"
   }
 }
